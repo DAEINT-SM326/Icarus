@@ -9,6 +9,7 @@ Developers:
   SM326
   
 Icarus is Daedalus Initiative's main Guilded bot. The features of this bot have yet to be completely defined, but some of the initial features are as follows:
+    
     Providing Fleetyards data
     Providing Star Citizen game data from scunpacked
     Notifying users when Star Citizen posts are posted
