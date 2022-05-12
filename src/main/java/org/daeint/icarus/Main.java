@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Main {
 
     static Scanner in = new Scanner(System.in);
-    static G4JClient client = new G4JClient("VM2Whjd++2MJIjPuv5j5nMudLcJGeTBdEA4+NuydcOxQ8u3GGEAEwIxfLSuG9KGdSjRgQndMXNeAHQiHsKJL/g==");
+    static G4JClient client = new G4JClient("put token here");
 
     public static void main(String[] args) {
 
